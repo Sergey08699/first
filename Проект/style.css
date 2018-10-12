@@ -1,0 +1,48 @@
+h1{
+	color: white;
+	text-align: center;
+	font-size: 60;
+}
+.img-center{
+	text-align: center;
+
+}
+.block1{
+	outline: none;
+	width: 150px;
+	background: #191970;
+	background: linear-gradient(to right, 	#1C1C1C, #E8E8E8);
+	border-radius: 20px;
+	padding: 10px 10px;
+	box-shadow: -16px -13px 30px -8px #000000;
+	user-select: none;
+	transition: background 20s linear;
+	
+}
+
+.block1:hover{
+	background: linear-gradient(to right, 	#E8E8E8, #1C1C1C);
+}
+
+.p{
+	text-align: center;
+}
+
+
+
+
+
+
+.knopo4ka{
+	background: linear-gradient(to right, 	#1C1C1C, #E8E8E8);
+	color: black;
+	width: 150px;
+	padding: 10px 10px;
+	border-radius: 20px;
+	transition: background 7s linear;
+}
+.knopo4ka:hover{
+	background: linear-gradient(to right, 	#E8E8E8, #1C1C1C);
+	color: red;
+}
+
